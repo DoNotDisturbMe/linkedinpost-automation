@@ -1,0 +1,32 @@
+Hi #everyone, I'm Prince Kumar, a DevOps/SRE Engineer with 2+ years of experience, currently available for short-term and long-term freelancing projects.
+
+I work with startups, enterprises, and growing teams to design, deploy, and scale secure, production-ready cloud infrastructure.
+
+💼 Services I Offer:
+
+🔹 DevOps & Cloud Engineering
+- CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI)
+- Kubernetes & Helm (AKS, on-prem, self-hosted clusters)
+- AWS / Azure / OpenStack
+- Monitoring & logging (Prometheus, Grafana, ELK)
+- Infrastructure automation (Terraform, Ansible)
+
+🔹 Platform & Migration Engineering
+- Kubernetes cluster migrations (cloud to on-prem, cross-cloud)
+- Camunda 8 / Zeebe self-managed deployments
+- Storage & backup automation (Velero, Kopia, MinIO, VolSync)
+- Production hardening & performance optimization
+
+🤝 Engagement Models:
+✔ Short-term projects
+✔ Long-term engagements
+✔ Dedicated DevOps/SRE support
+
+📩 Let's connect and discuss your requirements
+📧 Email: kmprince15932@gmail.com
+📞 Contact: +91-8081366401
+💬 Or feel free to DM me on LinkedIn
+
+Looking forward to collaborating and delivering impactful solutions! 🚀
+
+#DevOps #Kubernetes #CloudEngineering #Freelance #SRE #AWS #Azure #Terraform
